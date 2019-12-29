@@ -4,7 +4,7 @@ Hack Website with SQL injection นี้เป็น tool ที่เอาไ
 # วิธีติดตั้ง
 ### apt-get upgrade -y && sudo apt-get update -y
 ### apt-get install git -y & sudo  apt-get install git -y 
-### git clone 
+### git clone https://github.com/methy2547/METHY-SQL.git
 ### cd METHY-SQL
 ### chmod +x *
 ### sh install.sh
