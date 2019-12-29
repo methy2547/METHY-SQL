@@ -1,6 +1,4 @@
 # METHY-SQL
-
-# METHY-SQL
 Hack Website with SQL injection นี้เป็น tool ที่เอาไว้แฮกเว็บไซต์
 
 # วิธีติดตั้ง
