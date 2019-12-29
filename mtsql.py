@@ -4,7 +4,6 @@ from time import sleep as timeout
 os.system("clear")
 os.system("figlet METHY-SQL")
 print "Written by METHY "
-print "YouTube : https://www.youtube.com/channel/UCaQLb31xiNu2T0buaGevJLw/videos"
 print "YouTube : METHY "
 print
 #Hacking
